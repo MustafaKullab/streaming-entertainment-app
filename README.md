@@ -3,6 +3,9 @@
 A modern and responsive **entertainment web application** built with **Vue.js**, allowing users to explore movies and TV series, search content, and manage bookmarked items with a clean and interactive UI.
 
 ---
+![Uploading لقطة شاشة 2026-04-21 131519.png…]()
+
+---
 
 ## 🚀 Live Demo
 
